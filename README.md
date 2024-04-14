@@ -11,7 +11,7 @@ This project is an example that was built along with a tensorflow tutorial showi
 * Compile and train the model
 * Evaluate the model!
 
-% User Instructions
+<! -- User Constructions -->
 ## Check the the Tensorflow tutorial here
 
 https://www.tensorflow.org/tutorials/images/cnn?_gl=1*1h8dwnl*_up*MQ..*_ga*NjM1NzEyNTYyLjE3MTI4NzQ2MTQ.*_ga_W0YLR4190T*MTcxMjg3NDYxMy4xLjAuMTcxMjg3NDYxMy4wLjAuMA..
