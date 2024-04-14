@@ -7,6 +7,11 @@ This project is an example that was built along with a tensorflow tutorial showi
 * Create and prepare the CIFAR10 dataset
 * Verification of the dataset
 * Create the convolutional neural network basement
-* Ad
-* 
+* Adding the Dense layers on top
+* Compile and train the model
+* Evaluate the model!
 
+% User Instructions
+## Check the the Tensorflow tutorial here
+
+https://www.tensorflow.org/tutorials/images/cnn?_gl=1*1h8dwnl*_up*MQ..*_ga*NjM1NzEyNTYyLjE3MTI4NzQ2MTQ.*_ga_W0YLR4190T*MTcxMjg3NDYxMy4xLjAuMTcxMjg3NDYxMy4wLjAuMA..
