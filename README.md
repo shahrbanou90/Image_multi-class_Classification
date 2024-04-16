@@ -1,6 +1,6 @@
 # Image Classification using Convolutional Neural Network (CNN)
 
-## The deep learning algorithm of Convolutional Neural Network (CNN) to classify CIFA images using the Keras Sequential APLI.
+## The deep learning algorithm of Convolutional Neural Network (CNN) to classify CIFAR images using the Keras Sequential APLI.
 
 This project is an example that was built along with a tensorflow tutorial showing how to create a multi-class classification model for CIFAR image dataset. Every stage of this project is explained below:
 
